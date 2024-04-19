@@ -3,6 +3,7 @@ Keyboard layout files for MacOS
 
 ## Available keyboard layouts
 - HP keyboards available in the Turing offices (`HP-HSA-A001K.keylayout`)
+- Dell keyboards available for home working (`Dell-KB216t.keylayout`)
 
 ## Installation instructions
 Take the relevant `.keylayout` file and copy it to `/Library/Keyboard Layouts`.
